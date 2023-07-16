@@ -1,0 +1,55 @@
+INFO:root:Customer ID: 17850.0
+INFO:root:MAE: 0.13200318005594353
+INFO:root:RMSE: 1.6236974622204279
+INFO:django.utils.autoreload:C:\Users\xmuxer\OneDrive\College\django-apps\e-commerce\ecommerce\main\test_filter.py changed, reloading.
+INFO:root:Customer ID: 17850.0
+INFO:root:MAE: 0.13200318005594353
+INFO:root:RMSE: 1.6236974622204279
+INFO:django.utils.autoreload:C:\Users\xmuxer\OneDrive\College\django-apps\e-commerce\ecommerce\main\views.py changed, reloading.
+INFO:root:Customer ID: 17850.0
+INFO:root:MAE: 0.13200318005594353
+INFO:root:RMSE: 1.6236974622204279
+INFO:django.utils.autoreload:C:\Users\xmuxer\OneDrive\College\django-apps\e-commerce\ecommerce\main\test_filter.py changed, reloading.
+INFO:root:Customer ID: 13047.0
+INFO:root:MAE: 3.0373916183201017e-111
+INFO:root:RMSE: 1.8958774642758475e-109
+INFO:django.utils.autoreload:C:\Users\xmuxer\OneDrive\College\django-apps\e-commerce\ecommerce\main\filter.py changed, reloading.
+INFO:root:Customer ID: 13047.0
+INFO:root:MAE: 1.9144790384243165e-07
+INFO:root:RMSE: 8.27973511809555e-06
+INFO:root:User ID: 1
+INFO:root:MAE: 0.05
+INFO:root:F1-Score: 0.6666666666666666
+INFO:root:RMSE: 0.22360679774997896
+INFO:django.utils.autoreload:C:\Users\xmuxer\OneDrive\College\django-apps\e-commerce\ecommerce\main\test_filter.py changed, reloading.
+INFO:root:Customer ID: 13047.0
+INFO:root:MAE: 0.673916183201017e-111
+INFO:root:RMSE: 0.8958774642758475e-109
+INFO:root:Customer ID: 13047.0
+INFO:root:MAE: 3.0373916183201017e-111
+INFO:root:RMSE: 1.8958774642758475e-109
+INFO:root:User ID: 1
+INFO:root:MAE: 0.05
+INFO:root:F1-Score: 0.6666666666666666
+INFO:root:RMSE: 0.22360679774997896
+WARNING:django.request:Not Found: /favicon.ico
+INFO:root:Customer ID: 13047.0
+INFO:root:MAE: 0.21259224224576428
+INFO:root:RMSE: 0.8635220969659118
+INFO:root:Customer ID: 13047.0
+INFO:root:MAE: 0.21259224224576428
+INFO:root:RMSE: 0.8635220969659118
+INFO:root:User ID: 1
+INFO:root:MAE: 0.05
+INFO:root:F1-Score: 0.6666666666666666
+INFO:root:RMSE: 0.22360679774997896
+INFO:root:Customer ID: 13047.0
+INFO:root:MAE: 0.21259224224576428
+INFO:root:RMSE: 0.8635220969659118
+INFO:root:Customer ID: 13047.0
+INFO:root:MAE: 0.21259224224576428
+INFO:root:RMSE: 0.8635220969659118
+INFO:root:User ID: 1
+INFO:root:MAE: 0.05
+INFO:root:F1-Score: 0.6666666666666666
+INFO:root:RMSE: 0.22360679774997896

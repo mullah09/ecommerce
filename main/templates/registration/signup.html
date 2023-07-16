@@ -1,0 +1,24 @@
+{% extends 'base.html' %}
+{% load static %}
+{% block content %}
+<main class="container my-4">
+	<!-- Featured Products -->
+	<h3 class="my-4 border-bottom pb-1">SignUp</h3>
+	{% if messages %}  
+	<div class="alert alert-danger" role="alert">
+		{{ messages }}
+	</div>
+    {% endif %}  
+	<table class="table table-bordered">
+		<form method="post">
+			{% csrf_token %}
+			{{form.as_table}}
+			<tr>
+				<td colspan="2">
+					<input type="submit" name="submit" value="Register" class="btn btn-primary" />
+				</td>
+			</tr>
+		</form>
+	</table>
+</main>
+{% endblock %}
